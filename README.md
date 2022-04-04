@@ -15,8 +15,8 @@
 
 
 ## 🎯 Credits and Other
-- [Me](https://github.com/IamNimsara)
-- [pyrogram](https://github.com/pyrogram) 
+- [Me](https://github.com/Sandarugimsara)
+- [pyrogram](https:/Sandarugimsara/github.com/pyrogram) 
 - [@G99Solutions Link Shorten API](https://github.com/g99solutions/URL-Shortener-API)
 
 
@@ -24,7 +24,7 @@
 ```
 MIT License
 
-Copyright (c) 2022 IamNimsara
+Copyright (c) 2022 Iamsandaru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
